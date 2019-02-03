@@ -115,8 +115,8 @@ To set what links appear in the top navigation edit `_data/navigation.yml`. Use 
 - title: Blog
   url: /blog/
 
-- title: Projects
-  url: /projects/
+- title: publications
+  url: /publications/
 
 - title: About
   url: /about/

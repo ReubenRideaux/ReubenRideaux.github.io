@@ -13,7 +13,7 @@
 * Syntax highlighting
 * Optional post image
 * Social icons
-* Page for sharing projects
+* Page for sharing publications
 * Optional background image
 * Simple navigation menu
 * MathJax support
