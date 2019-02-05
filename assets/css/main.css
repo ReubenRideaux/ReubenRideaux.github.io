@@ -199,6 +199,7 @@ body {
   font-size: 1rem;
   color: #383838;
   background-color: #ffffff;
+  opacity: .4;
   background-position: center center;
   background-attachment: fixed
 }
