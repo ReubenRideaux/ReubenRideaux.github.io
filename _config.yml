@@ -5,7 +5,7 @@ description:        "visual & cognitive neuroscientist"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.svg'
-background:         'assets/img/background_image2.png'
+background:         'assets/img/background_image.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_UK
 url:                https://reubenrideaux.github.io/
