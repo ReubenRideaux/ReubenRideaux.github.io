@@ -199,7 +199,6 @@ body {
   font-size: 1rem;
   color: #383838;
   background-color: #ffffff;
-  opacity: .4;
   background-position: center center;
   background-attachment: fixed
 }
@@ -727,7 +726,7 @@ dt {
 }
 
 .btn.btn-danger {
-  background-color: #158f91;
+  background-color: #C64537;
   color: #fff;
   border-color: #C64537
 }
